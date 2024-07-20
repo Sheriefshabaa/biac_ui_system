@@ -1,4 +1,4 @@
-package com.example.biac_ui_system
+package com.example.biac
 
 import io.flutter.embedding.android.FlutterActivity
 
