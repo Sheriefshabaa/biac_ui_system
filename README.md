@@ -1,6 +1,6 @@
-# biac_ui_system
+# biac
 
-biac - burn inhibition application for citizens
+A new Flutter project.
 
 ## Getting Started
 
